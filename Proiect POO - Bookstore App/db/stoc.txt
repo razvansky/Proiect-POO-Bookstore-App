@@ -1,0 +1,3 @@
+1 Sherlock_Holmes Paralela 500 875 21 Arthur
+2 Mama_bogat_Mama_Sarac ALL 99900 2023 3 Ana Ionela
+1 Ion EDITURA 1209 210 10 Liviu Rebreanu ABC XYZ
